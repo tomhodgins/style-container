@@ -1,0 +1,33 @@
+{
+  "name": "style-container",
+  "version": "0.0.1",
+  "description": "A way to re-use CSS for scoped styles and container queries in HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomhodgins/style-container.git"
+  },
+  "keywords": [
+    "css",
+    "scoped",
+    "style",
+    "stylesheet",
+    "scoping",
+    "container",
+    "contain",
+    "element",
+    "media",
+    "query",
+    "HTML",
+    "tag"
+  ],
+  "author": "Tommy Hodgins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomhodgins/style-container/issues"
+  },
+  "homepage": "https://github.com/tomhodgins/style-container#readme"
+}
